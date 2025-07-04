@@ -69,4 +69,4 @@ Analyze four years of sales and order data from KMS to generate actionable busin
 
 ---
 
-## Repository Structure
+This wrapper repository has been created to link and showcase both projects from the case study assignment. Each case study has its own GitHub repo and full documentation.
